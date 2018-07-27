@@ -32,4 +32,6 @@ do {
 array[y] = "I love the Beatles!"
 y = y + 1;
 } while (y <= number)
+
+return array
 }
