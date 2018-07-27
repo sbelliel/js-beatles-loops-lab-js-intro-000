@@ -19,7 +19,7 @@ function johnLennonFacts(array) {
   var newfacts = []
   var x = 0;
   while (x < facts.length) {
-    newfacts[x] = array[x] + "!!!"
+    newfacts[x] = facts[x] + "!!!"
     x = x + 1;
   }
   return newfacts
