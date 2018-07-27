@@ -31,7 +31,7 @@ var y = 0;
 do {
 array[y] = "I love the Beatles!"
 y = y + 1;
-} while (y <= number)
+} while (y >= number)
 
 return array
 }
