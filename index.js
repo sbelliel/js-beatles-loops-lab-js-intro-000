@@ -17,4 +17,5 @@ const facts = [
 
 function johnLennonFacts() {
   var newfacts = []
+  while
 }
